@@ -2,7 +2,7 @@
 
 ## Getting started
 
-We will use VScode as our IDE of choice.
+We will use VScode as our code editor of choice.
 
 ### Compilers
 
